@@ -3,6 +3,7 @@
 
 Below are examples of where I've worked with different technologies:
 
+
 **Agrona RingBuffer**
 
 
@@ -93,6 +94,13 @@ Below are examples of where I've worked with different technologies:
 [Encoder Decoder chain testing](https://github.com/bhf/encoder-chain-testing)
 
 
+
 **JMH benchmarking**
 
 [Benchmark process development, array averaging performance and cache behaviour](https://github.com/bhf/jmh-playground)
+
+
+
+**JIRA and Project Management Workflow**
+
+[map-benchmarks](https://github.com/bhf/map-benchmark)
